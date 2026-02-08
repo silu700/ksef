@@ -1,8 +1,8 @@
 <?php
-$host = '127.0.0.1';
-$db   = 'faktury_system';
-$user = 'root';
-$pass = 'junior01';
+$host = 'localhost';
+$db   = 'silu_ksef';
+$user = 'silu_ksef';
+$pass = 'Ksef01234@';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
